@@ -1,0 +1,2 @@
+execve("./purplebox.py", ["./purplebox.py"], 0x7ffdde758e70 /* 50 vars */) = -1 ENOEXEC (Exec format error)
++++ exited with 1 +++
